@@ -2,10 +2,10 @@
 
 int main() {
   // Create variables
-  int numero = 5;            // numeros enteros positivos o negativos
-  float decimales = 5.99;     // numeros decimales despues del punto
-  char letra = 'D';         // solo almacena caracteres
-  double PI = 3.1419542485;  //
+  int numero;            // numeros enteros positivos o negativos
+  float decimales;     // numeros decimales despues del punto
+  char letra;         // solo almacena caracteres
+  double PI;  //
 
   // impresion de variables
   printf("%d\n", numero);
@@ -15,3 +15,4 @@ int main() {
   
   return 0;
 }
+
