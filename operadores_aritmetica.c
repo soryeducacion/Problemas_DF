@@ -14,8 +14,8 @@ int main(){
 	printf("El residuo es: %d\n", b % c);
 
 	int z = 5;
-
-	printf("**************** Operadores de Incremento ****************\n");
+ 
+	printf("\n**************** Operadores de Incremento ****************\n");
 	++z;
 	printf("%d\n", z); // 6
 	--z;
