@@ -1,7 +1,10 @@
 /* ***
-* Esqueleto.c - programa que suma dos números
+* Esqueleto.c - programa que suma dos nÃºmeros
 * ***/
 #include <stdio.h>
+
+
+
 
 int main() {
     // Declaro variables
@@ -16,3 +19,4 @@ int main() {
     // Muestro el resultado
     printf("La suma es igual a: %d\n",c);
 }
+
