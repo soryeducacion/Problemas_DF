@@ -7,7 +7,7 @@
 #include <stdio.h>
 int main() {
     // Declarar variables
-    short edad,estudiante;          // short es un entero corto
+    int edad,estudiante;          
     float descuento = 1;
     float const precio = 15;
     // Pedir edad
