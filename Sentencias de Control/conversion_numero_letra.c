@@ -1,9 +1,10 @@
 #include <stdio.h>
- 
+
  int main () {
    int mes_numero;
-   printf("Dame un numero del 1 - 12");
+   printf("Dame un numero del 1 - 12 ");
    scanf("%d", &mes_numero);
+
    if(mes_numero == 1){
      printf("Enero");
    }else if(mes_numero == 2){
