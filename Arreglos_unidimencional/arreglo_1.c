@@ -16,7 +16,7 @@ int main() {
     }
 
     printf("\n-----Captura de edades-----\n");
-    while(i < 7){
+    while(i <= 7){
 
         printf("\nIngresa edad %d: ",i);
         scanf("%d", &edades[i]);
